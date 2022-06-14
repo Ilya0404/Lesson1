@@ -1,0 +1,24 @@
+header{
+    background: linear-gradient(#441b6db2,#fa040494);
+}
+
+ul{
+    list-style: none;
+    margin: 0 ;
+    padding: 20px ;
+}
+a{
+    font-size: 40 px;
+    padding: 20px;
+    color: #070707;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #ffcf48;
+    text-decoration: none;
+}
+ 
+li{
+    display: inline;
+}
